@@ -20,7 +20,7 @@ export default function Home() {
       <HorizontalImageSlider images={SlideData.slideData} />
       <GetInRTouch/>
     <Footer/>
-    <FloatingWhatsApp phoneNumber='+2742164070' accountName='MUZI ZULU HOME BUILDERS'  avatar='/images/muzulu_logo.PNG'/>
+    <FloatingWhatsApp phoneNumber='+27742164070' accountName='MUZI ZULU HOME BUILDERS'  avatar='/images/muzulu_logo.PNG'/>
     </Flex>
   );
 }
